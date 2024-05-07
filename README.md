@@ -27,6 +27,6 @@ Units that vary depending on their situation or context use fixed values in this
 
 ### Instructions
 
-The implementation is header-only and written in templated C++17. You should need not need to make any adjustments to your project settings or compiler flags.
+The implementation is header-only and written in templated C++17. You should not need to make any adjustments to your project settings or compiler flags.
 
 To use in your project, simply include the header file and its dependency.
