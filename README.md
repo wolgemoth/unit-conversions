@@ -12,7 +12,7 @@ If you find a bug or have a feature-request, please raise an issue.
 
 This library is designed for use in situations requiring the rapid processing of large volumes of data, where concessions to the accuracy of the result are acceptable in favour of increased performance.
 
-It is not suitable for use in scientific applications requiring high precision or error correction. If your application needs anything other than an approximate conversion, I recommend you to use a different library which is better suited to your needs.
+As it uses floating-point representations for the conversions it is not suitable for use in scientific applications requiring extreme precision or error correction. If your application needs anything other than an approximate conversion, I recommend you to use a different library which is better suited to your needs.
 
 ### Note
 
